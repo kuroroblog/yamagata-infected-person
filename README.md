@@ -9,7 +9,7 @@
 4. ダウンロードされたzipファイルをデスクトップへ移動
 5. zipファイルをダブルクリック
 6. ターミナルを開く。
-7.ターミナルを活用して、zipを展開して生成されたフォルダへ移動する。(`$ cd Desktop/yamagata-infected-person-master`)
+7. ターミナルを活用して、zipを展開して生成されたフォルダへ移動する。(`$ cd Desktop/yamagata-infected-person-master`)
 8. `$ python main.py`を実行する。
 
 ## 参考文献
