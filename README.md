@@ -14,4 +14,4 @@
 
 ## 参考文献
 
-csvファイル : https://www3.nhk.or.jp/news/special/coronavirus/data/
+csvファイル取得先 : https://www3.nhk.or.jp/news/special/coronavirus/data/
